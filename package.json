@@ -1,0 +1,22 @@
+{
+  "name": "sysmoniter",
+  "version": "1.0.0",
+  "description": "small system information monitior",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamato2199/SysMoniter.git"
+  },
+  "author": "yamato2199",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamato2199/SysMoniter/issues"
+  },
+  "homepage": "https://github.com/yamato2199/SysMoniter#readme",
+  "dependencies": {
+    "electron": "^3.0.2"
+  }
+}
